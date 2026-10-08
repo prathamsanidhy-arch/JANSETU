@@ -1,4 +1,4 @@
-# Saarthi AI
+# JANSETU
 
 An AI-powered civic companion built for Devengers PromptWars.
 
