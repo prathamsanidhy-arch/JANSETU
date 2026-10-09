@@ -43,7 +43,7 @@ const Login = () => {
               Empowering Citizens with <span className="text-brand-500">Smart AI</span>
             </h1>
             <p className="text-xl text-slate-300 mb-12 font-light">
-              Experience the next generation of civic engagement. Report issues, discover schemes, and track progress—all powered by Google Gemini.
+              Experience the next generation of civic engagement. Report issues, discover schemes, and track progress.
             </p>
             
             <div className="space-y-6">

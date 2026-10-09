@@ -71,7 +71,7 @@ const Landing = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
-              { icon: Zap, title: "AI Complaint Resolution", desc: "Our Gemini AI automatically analyzes your issue photos and routes them to the exact department in seconds." },
+              { icon: Zap, title: "AI Complaint Resolution", desc: "Our AI automatically analyzes your issue photos and routes them to the exact department in seconds." },
               { icon: FileText, title: "Scheme Discovery", desc: "Never miss a welfare scheme. Our AI matches your profile against thousands of government programs." },
               { icon: ShieldCheck, title: "Document Vault", desc: "Securely store your Aadhaar, PAN, and certificates with government-grade encryption." },
               { icon: Activity, title: "Emergency SOS", desc: "One-tap access to police, ambulance, and disaster management with live location sharing." },
@@ -116,7 +116,7 @@ const Landing = () => {
           <img src="/logos/jansetu-icon.png" alt="JanSetu" className="h-6 w-auto" />
           <span className="font-bold text-xl text-gov-900">JanSetu</span>
         </div>
-        <p className="text-slate-500 text-sm">© 2026 Government of India Digital Initiative. Built with Google Gemini.</p>
+        <p className="text-slate-500 text-sm">© 2026 Government of India Digital Initiative.</p>
       </footer>
     </div>
   );
