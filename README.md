@@ -3,3 +3,4 @@
 An AI-powered civic companion built to help and serve people.
 
 Status: Under Development
+will progress on it again
